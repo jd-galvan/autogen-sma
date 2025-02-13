@@ -20,11 +20,11 @@ python3.12 -m venv .venv
 2️⃣ **Activar el ambiente virtual:**
    - En Windows:
    ```sh
-   venv\Scripts\activate
+   .venv\Scripts\activate
    ```
    - En macOS/Linux:
    ```sh
-   source venv/bin/activate
+   source .venv/bin/activate
    ```
 
 3️⃣ **Instalar dependencias:**
